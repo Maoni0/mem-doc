@@ -13,6 +13,8 @@ As we have more and better tooling I will continue updating this document. But a
 
 I also included slide decks and video recording links of talks I've done in this repo. In general when I do talks I tend to also talk about things that aren't easily found elsewhere. Currently the following talks are included -
 
+2021 Internal talk - "A .NET Object - from allocation to collection" (talks about how memory for a .NET object is acquired all the way down to the hardware layer. Since I'm toughing many memory related things - the hardware, the OS and the GC - I had to stay very high level): [slides](./presentation/ObjectJourney.pptx)
+
 2020 dotnext talk - "What's new in the .NET 5.0 GC" (short high level talk on new features in 5.0): [slides](./presentation/dotnext2020-new-in-5-GC.pptx)
 
 2020 dotnetos talk - "What's so hard about pinning" (in-depth talk on how pinning is handled): [slides](./presentation/dotnetos2020-Pinning.pptx), [video](https://www.youtube.com/watch?v=troNdmHEu2g)
