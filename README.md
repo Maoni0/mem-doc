@@ -1,3 +1,7 @@
+<div align="center">
+    <strong><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></strong>
+</div>
+
 # mem-doc
 Over the years I've worked with a lot of customers to help them with analyzing GC heap related performance issues. Even though perf issues can and often vary a lot from one to the next, there's enough similarities that I thought it’s worthwhile to write a guideline document to either get folks started on the right path to be efficient at doing .NET memory performance analysis, or give those who are already quite experienced in perf more knowledge and tools to make their jobs easier.
 
