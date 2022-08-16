@@ -19,7 +19,7 @@ I also included slide decks and video recording links of talks I've done in this
 
 2022 Internal talk - "Diagnosing Memory Leaks" [slides](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pptx) ([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pdf)), [video](https://www.youtube.com/watch?v=ImeiUzbdMzc)
 
-2021 Internal talk - "A .NET Object - from allocation to collection" (talks about how memory for a .NET object is acquired all the way down to the hardware layer. Since I'm toughing many memory related things - the hardware, the OS and the GC - I had to stay very high level): [slides](./presentation/ObjectJourney.pptx)([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/ObjectJourney.pdf)), [video](https://www.youtube.com/watch?v=1Qmvme70w9c)
+2021 Internal talk - "A .NET Object - from allocation to collection" (talks about how memory for a .NET object is acquired all the way down to the hardware layer. Since I'm touching many memory related things - the hardware, the OS and the GC - I had to stay very high level): [slides](./presentation/ObjectJourney.pptx)([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/ObjectJourney.pdf)), [video](https://www.youtube.com/watch?v=1Qmvme70w9c)
 
 2020 dotnext talk - "What's new in the .NET 5.0 GC" (short high level talk on new features in 5.0): [slides](./presentation/dotnext2020-new-in-5-GC.pptx) ([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/dotnext2020-new-in-5-GC.pdf))
 
