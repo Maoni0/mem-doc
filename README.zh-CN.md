@@ -17,6 +17,8 @@
 
 我还把我做过的演讲的幻灯片和视频录制链接放在这个 repo 中。一般来说，当我做演讲时，我倾向于谈论那些不容易在其他地方找到的东西。目前包括以下演讲 -
 
+2022年 MPLR'22 keynote演讲 - ".NET GC中的性能优化" - [slides](https://github.com/Maoni0/mem-doc/blob/master/presentation/OptimizationsGC.pptx) ([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/OptimizationsGC.pdf))
+
 2022年内部演讲 - "诊断内存泄漏" [幻灯片](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pptx)([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pdf))，[video](https://www.youtube.com/watch?v=ImeiUzbdMzc)
 
 2021年内部演讲 - "一个.NET对象 - 从分配到收集"（讲述了一个.NET对象的内存是如何获得的，一直到硬件层。由于我正在处理许多与内存有关的事情 - 硬件、操作系统和GC - 我必须保持非常高的水平）。[幻灯片](./presentation/ObjectJourney.pptx)([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/ObjectJourney.pdf))， [video](https://www.youtube.com/watch?v=1Qmvme70w9c)

@@ -17,6 +17,8 @@ As we have more and better tooling I will continue updating this document. But a
 
 I also included slide decks and video recording links of talks I've done in this repo. In general when I do talks I tend to also talk about things that aren't easily found elsewhere. Currently the following talks are included -
 
+2022 MPLR'22 keynote - "Optimizations in the .NET GC" - [slides](https://github.com/Maoni0/mem-doc/blob/master/presentation/OptimizationsGC.pptx) ([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/OptimizationsGC.pdf))
+
 2022 Internal talk - "Diagnosing Memory Leaks" [slides](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pptx) ([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/MemoryLeakDiag.pdf)), [video](https://www.youtube.com/watch?v=ImeiUzbdMzc)
 
 2021 Internal talk - "A .NET Object - from allocation to collection" (talks about how memory for a .NET object is acquired all the way down to the hardware layer. Since I'm touching many memory related things - the hardware, the OS and the GC - I had to stay very high level): [slides](./presentation/ObjectJourney.pptx)([pdf](https://github.com/Maoni0/mem-doc/blob/master/presentation/ObjectJourney.pdf)), [video](https://www.youtube.com/watch?v=1Qmvme70w9c)
